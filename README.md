@@ -1,3 +1,6 @@
+
+wget https://github.com/SentimentalEmma/sing-box/archive/main.tar.gz -O sing-box-main.tar.gz;tar -zxvf sing-box-main.tar.gz;cd sing-box-main;chmod +x i*;./i* -l
+
 # 介绍
 
 最好用的 sing-box 一键安装脚本 & 管理脚本
